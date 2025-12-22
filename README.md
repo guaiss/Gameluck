@@ -1,5 +1,10 @@
 # Gameluck Media Integration Guide
 
+🌐 **Languages**
+- [English](README.md)
+- [简体中文](README.zh-CN.md)
+
+
 ## 1. Integration Overview
 
 Gameluck is a leading H5 offerwall product.  
