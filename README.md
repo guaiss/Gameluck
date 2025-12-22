@@ -107,21 +107,5 @@ std::string url = "https://YOUR_GAMELUCK_URL";
 Application::getInstance()->openURL(url);
 ```
 
----
 
-## 4. Notes & Requirements
 
-- ✅ No SDK integration required  
-- ✅ Does not affect existing ad placements  
-- ✅ Does not impact current monetization logic  
-- ❌ WebView is not allowed  
-- ❌ Embedded pages are not allowed  
-
----
-
-## 5. Contact
-
-For integration support or to obtain the official H5 link, please contact:
-
-**Gameluck**  
-Business Contact: Niki  
