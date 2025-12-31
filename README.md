@@ -108,7 +108,7 @@ Application::getInstance()->openURL("https://YOUR_GAMELUCK_URL");
 
 ---
 
-## 4. Tracking Parameters & Examples (Optional)
+## 4. URL Tracking Parameters & Examples (Must Read)
 
 ### 1. URL Format Example
 
