@@ -106,7 +106,7 @@ Application::getInstance()->openURL("https://YOUR_GAMELUCK_URL");
 
 ---
 
-## 4. 参数说明与示例（可选）
+## 4. 链接参数说明与示例（必读）
 
 ### 1. 链接格式示例
 
