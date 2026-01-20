@@ -1,4 +1,4 @@
-# Gameluck Media Integration Guide
+# Gameluck Publisher Technical Integration Guide
 
 🌐 **Languages**
 - [English](README.md)
