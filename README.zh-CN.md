@@ -1,4 +1,4 @@
-# Gameluck 媒体接入说明
+# Gameluck 媒体接入技术文档
 
 🌐 **语言**
 - [English](README.md)
